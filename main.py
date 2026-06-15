@@ -22,7 +22,7 @@ if GEMINI_API_KEY is None:
 
 
 
-#Extracting data from API 
+#Extracting data from API and Pagination logic to retrieve all records
 
 base_url = "https://dummyjson.com/carts"
 
